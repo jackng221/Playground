@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1981086b6abe8f440b7d6d96c27d1a2f
+timeCreated: 1512461568
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Mountains/SantaClarita.raw
+  uploadId: 624408

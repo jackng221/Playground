@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4710a14c8662354c8ca7930488f353d
+timeCreated: 1460700595
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Samples/Prefabs/RuntimeSample02.prefab
+  uploadId: 624408

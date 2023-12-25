@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d701211b3e9eeee43970cfa204adfef7
+timeCreated: 1512461270
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Mountains/LakeBonnevilleMountains.raw
+  uploadId: 624408

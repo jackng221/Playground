@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64ac5822314dd47d890e7f34d113ed87
+timeCreated: 1457096796
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Prefabs/LB Default Resources.prefab
+  uploadId: 624408

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45b0a3896a9794cdd907d5c96ae84a7e
+timeCreated: 1453211091
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Materials/LBSkybox.mat
+  uploadId: 624408

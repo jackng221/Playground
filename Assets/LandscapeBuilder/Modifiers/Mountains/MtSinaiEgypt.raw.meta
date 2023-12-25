@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1d22bf2ef61d1944ab4edc4885e4830
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Mountains/MtSinaiEgypt.raw
+  uploadId: 624408

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cccce527c36a547849bfbd216c955b10
+timeCreated: 1453960440
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Materials/LBSteel.mat
+  uploadId: 624408

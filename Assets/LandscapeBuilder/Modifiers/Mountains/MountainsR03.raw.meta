@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c673f891b2d65e74996b3e9952b11d03
+timeCreated: 1511947234
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Mountains/MountainsR03.raw
+  uploadId: 624408

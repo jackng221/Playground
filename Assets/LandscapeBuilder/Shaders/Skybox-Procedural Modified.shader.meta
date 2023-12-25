@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd2969af8f79b4d23a1bcc0edbfdb58b
+timeCreated: 1456825748
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/Skybox-Procedural Modified.shader
+  uploadId: 624408

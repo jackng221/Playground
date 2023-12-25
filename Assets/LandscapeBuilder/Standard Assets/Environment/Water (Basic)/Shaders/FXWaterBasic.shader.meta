@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9dccc8e8f0da4494991c26ef59019551
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader
+  uploadId: 624408

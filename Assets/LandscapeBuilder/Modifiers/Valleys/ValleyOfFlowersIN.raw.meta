@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32674ae3894e11c468c5f5198dd5bcff
+timeCreated: 1543897820
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Valleys/ValleyOfFlowersIN.raw
+  uploadId: 624408

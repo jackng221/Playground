@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 03785dce661b6f044b0163c97d9eb0c1
+timeCreated: 1509868104
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/LibJpeg/Internal/my_2pass_cquantizer.cs
+  uploadId: 624408

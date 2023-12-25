@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf5396f0fdd080c45b8b9815e3145712
+timeCreated: 1531630677
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/3rdPartyLicenses/zLibLicense.txt
+  uploadId: 624408

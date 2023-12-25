@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0a276aec7fb38b4691b5b0da323e1e1
+timeCreated: 1532069689
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Materials/LB_Post_LQ_512.mat
+  uploadId: 624408

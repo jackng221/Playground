@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 90339fdcb5a0fb34e936bd7877a31440
+timeCreated: 1544921867
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/Resources/LBCGTexImported.cginc
+  uploadId: 624408

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2d6021568c6719046b81027cd86005f4
+timeCreated: 1509868105
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/Internal/TagCompare.cs
+  uploadId: 624408

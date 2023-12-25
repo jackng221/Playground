@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 27648094d34d866449934563fb03f23a
+timeCreated: 1509868105
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/LibJpeg/Internal/my_source_mgr.cs
+  uploadId: 624408

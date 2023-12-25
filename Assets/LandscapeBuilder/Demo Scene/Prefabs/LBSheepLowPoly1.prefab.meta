@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: afe9a6e8dc02b5a49892ffb17b18e2b1
+timeCreated: 1540202199
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Prefabs/LBSheepLowPoly1.prefab
+  uploadId: 624408

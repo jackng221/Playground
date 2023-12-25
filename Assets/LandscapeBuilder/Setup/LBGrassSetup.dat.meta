@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54d9a832c0e6ead438cd69e5659e9031
+timeCreated: 1465521369
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Setup/LBGrassSetup.dat
+  uploadId: 624408

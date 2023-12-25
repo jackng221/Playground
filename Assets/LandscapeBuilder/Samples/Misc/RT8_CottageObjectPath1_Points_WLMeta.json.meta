@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ba76107092c6c64d98e6b6de2169935
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Samples/Misc/RT8_CottageObjectPath1_Points_WLMeta.json
+  uploadId: 624408

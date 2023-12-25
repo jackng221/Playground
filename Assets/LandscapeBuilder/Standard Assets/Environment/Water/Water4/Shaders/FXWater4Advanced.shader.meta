@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 475c4a4e617a8401b84ca7b32c7cc460
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Advanced.shader
+  uploadId: 624408

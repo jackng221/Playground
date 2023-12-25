@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c71d18214fc11d645940618aba01ec64
+timeCreated: 1509868108
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/LibJpeg/Internal/jpeg_entropy_decoder.cs
+  uploadId: 624408

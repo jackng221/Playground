@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f917b13cca946284db2537b721a252db
+timeCreated: 1509868110
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/Internal/TiffCIELabToRGB.cs
+  uploadId: 624408

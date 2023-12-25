@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1535f17b9665ddc4ca48a8fb24cf93ac
+timeCreated: 1530165615
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/LBEnvPackSamples/Materials/LBS_RoofTile01_Light_512.mat
+  uploadId: 624408

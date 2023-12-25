@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d36dd70b17ba195468ec15ec4e5a7f11
+timeCreated: 1544881322
+licenseType: Store
+ComputeShaderImporter:
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/Resources/LBCSFPass.compute
+  uploadId: 624408

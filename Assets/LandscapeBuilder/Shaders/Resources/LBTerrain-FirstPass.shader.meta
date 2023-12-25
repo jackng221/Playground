@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e06b01e18b7f414d99018cf43dfdcc6
+timeCreated: 1462616983
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/Resources/LBTerrain-FirstPass.shader
+  uploadId: 624408

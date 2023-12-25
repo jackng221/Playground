@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c5957020f0daf46919b79a44a3e31d05
+timeCreated: 1492229349
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/LBStencilLayer.shader
+  uploadId: 624408

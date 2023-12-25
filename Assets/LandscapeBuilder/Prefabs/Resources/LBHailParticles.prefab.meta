@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7dd6a849919e96546ba5e68662ff65ce
+timeCreated: 1453897421
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Prefabs/Resources/LBHailParticles.prefab
+  uploadId: 624408

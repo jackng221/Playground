@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: deb1b2248a43c3149a9638121dd0141e
+timeCreated: 1509868109
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/zLib/ZStream.cs
+  uploadId: 624408

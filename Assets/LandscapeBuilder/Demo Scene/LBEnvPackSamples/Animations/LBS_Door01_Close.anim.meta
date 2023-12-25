@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 56c6d878961c94f4aaf84af09ae45dc8
+timeCreated: 1532048108
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/LBEnvPackSamples/Animations/LBS_Door01_Close.anim
+  uploadId: 624408

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2beb8f2ea1b07a640b95d7eafa4cec61
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/SRP/LB_HDRP_10.7.0.unitypackage
+  uploadId: 624408

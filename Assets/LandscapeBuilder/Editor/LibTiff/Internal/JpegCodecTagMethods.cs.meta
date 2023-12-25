@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 981900ab1e7ffe5459c9576a3e88caa9
+timeCreated: 1509868107
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/Internal/JpegCodecTagMethods.cs
+  uploadId: 624408

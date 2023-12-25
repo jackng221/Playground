@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 367fb37b1b080c74abfda48343d99a48
+timeCreated: 1566527539
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Hills/YorkWesternAustralia.raw
+  uploadId: 624408

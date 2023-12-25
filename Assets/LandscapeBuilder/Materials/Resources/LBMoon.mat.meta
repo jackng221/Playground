@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 178b481cd8e5945b98ca617598fcec33
+timeCreated: 1457006422
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Materials/Resources/LBMoon.mat
+  uploadId: 624408

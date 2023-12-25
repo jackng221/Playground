@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a07b72db8dbb08645839253f074c0827
+timeCreated: 1531617431
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Scripts/3rdPartyLicenses/xxHashLicense.txt
+  uploadId: 624408

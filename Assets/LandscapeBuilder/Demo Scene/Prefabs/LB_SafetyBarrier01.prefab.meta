@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e7c4eed136b3014ea10c3f4e7da22c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Prefabs/LB_SafetyBarrier01.prefab
+  uploadId: 624408

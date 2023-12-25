@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fb7d4c205a21f794a9d8600f3fa6553a
+timeCreated: 1509868110
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/Enums/ColorResponseUnit.cs
+  uploadId: 624408

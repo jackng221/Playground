@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c9ae98bd9d8a4512ba2203260c7e99b
+timeCreated: 1459148314
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Materials/LBSkybox6Sided.mat
+  uploadId: 624408

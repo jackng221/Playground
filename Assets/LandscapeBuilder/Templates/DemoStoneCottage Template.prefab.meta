@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10bd0478296e6cf46bdff83942331ecd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Templates/DemoStoneCottage Template.prefab
+  uploadId: 624408

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 325d908f3a35cce4380afef3185493fe
+timeCreated: 1512529484
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Mesas/PoletaFolds.raw
+  uploadId: 624408

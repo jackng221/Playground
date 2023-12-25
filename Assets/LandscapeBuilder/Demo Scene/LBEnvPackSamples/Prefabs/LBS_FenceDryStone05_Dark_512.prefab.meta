@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73bb51804c8bca4408ba69e28274e631
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/LBEnvPackSamples/Prefabs/LBS_FenceDryStone05_Dark_512.prefab
+  uploadId: 624408

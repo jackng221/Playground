@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e5dd149ee10cd147be229e949971a8b
+timeCreated: 1543880209
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Valleys/LauterbrunnenValleyCH.raw
+  uploadId: 624408

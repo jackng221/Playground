@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: abc7c1d467d5274449e1d5c3e4844621
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/LBEnvPackSamples/Editor/LBS_DoorAnimation01Editor.cs
+  uploadId: 624408

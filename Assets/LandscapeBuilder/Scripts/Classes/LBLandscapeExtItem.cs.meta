@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c506e26dfd5614440a5c0475d5909b1d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Scripts/Classes/LBLandscapeExtItem.cs
+  uploadId: 624408

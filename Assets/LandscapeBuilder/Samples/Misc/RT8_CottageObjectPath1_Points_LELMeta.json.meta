@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2fb666ccf03036e45a81901fd43ac117
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Samples/Misc/RT8_CottageObjectPath1_Points_LELMeta.json
+  uploadId: 624408

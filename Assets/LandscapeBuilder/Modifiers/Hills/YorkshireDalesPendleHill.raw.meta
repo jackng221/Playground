@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f117bfa9a0d261145b8b229c82bf2a69
+timeCreated: 1526712275
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Hills/YorkshireDalesPendleHill.raw
+  uploadId: 624408

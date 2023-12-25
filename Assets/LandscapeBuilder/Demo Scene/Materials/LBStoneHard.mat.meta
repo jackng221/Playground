@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cab9215da62b64f9f8c14d13d080d4f5
+timeCreated: 1454048872
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Materials/LBStoneHard.mat
+  uploadId: 624408

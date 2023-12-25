@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04b91ca43ba989f4e841e24f7840fba8
+timeCreated: 1531630677
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/3rdPartyLicenses/libtiffLicense.txt
+  uploadId: 624408

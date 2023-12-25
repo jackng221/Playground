@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 46041617461b94158b0b6b817238d9b7
+timeCreated: 1449300481
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LandscapeBuilderWindow.cs
+  uploadId: 624408

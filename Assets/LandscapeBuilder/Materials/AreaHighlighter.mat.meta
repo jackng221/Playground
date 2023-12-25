@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32aefbc6063b74afd8fc830c03196f3b
+timeCreated: 1461656137
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Materials/AreaHighlighter.mat
+  uploadId: 624408

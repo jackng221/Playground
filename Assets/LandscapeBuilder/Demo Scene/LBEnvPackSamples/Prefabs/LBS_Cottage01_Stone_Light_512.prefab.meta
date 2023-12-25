@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 46da0dc5ba972b84b8dfbf651d362d87
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/LBEnvPackSamples/Prefabs/LBS_Cottage01_Stone_Light_512.prefab
+  uploadId: 624408

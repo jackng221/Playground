@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0427ad5d6c9c3423e974fa943f3db862
+timeCreated: 1478918812
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/Resources/LBImageFX.shader
+  uploadId: 624408

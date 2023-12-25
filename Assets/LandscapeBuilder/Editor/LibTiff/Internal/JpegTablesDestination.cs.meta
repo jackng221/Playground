@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3678aecf974bc9b489d398bd540af67e
+timeCreated: 1509868105
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/Internal/JpegTablesDestination.cs
+  uploadId: 624408

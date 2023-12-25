@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 79d9fe2bc5ca24e86a0c25d1ab987f93
+timeCreated: 1461548376
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Scripts/Classes/LBLayerFilter.cs
+  uploadId: 624408

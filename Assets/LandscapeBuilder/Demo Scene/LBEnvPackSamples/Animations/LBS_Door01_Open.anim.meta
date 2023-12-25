@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9f0a916547e2dca44952b32dfc0767f4
+timeCreated: 1532048108
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/LBEnvPackSamples/Animations/LBS_Door01_Open.anim
+  uploadId: 624408

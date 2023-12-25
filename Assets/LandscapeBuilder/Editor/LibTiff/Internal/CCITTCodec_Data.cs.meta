@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dd3911d85b836904daefb77b73a47285
+timeCreated: 1509868109
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/Internal/CCITTCodec_Data.cs
+  uploadId: 624408

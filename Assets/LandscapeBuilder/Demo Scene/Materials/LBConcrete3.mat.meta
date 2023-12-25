@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c744a077c659f34ebe14ff30d674358
+timeCreated: 1453960440
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Materials/LBConcrete3.mat
+  uploadId: 624408

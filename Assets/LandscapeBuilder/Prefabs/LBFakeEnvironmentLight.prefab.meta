@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f9ac5da33a462d40b5408a74b254461
+timeCreated: 1469152782
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Prefabs/LBFakeEnvironmentLight.prefab
+  uploadId: 624408

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45610e09863b65d46882c65b34fe6281
+timeCreated: 1471389705
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/LBDemoScene2.unity
+  uploadId: 624408

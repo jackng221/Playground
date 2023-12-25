@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8160fc933c2261143af3cc7f7b261c9f
+timeCreated: 1492524808
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Templates/DemoLandscape1 Template.prefab
+  uploadId: 624408

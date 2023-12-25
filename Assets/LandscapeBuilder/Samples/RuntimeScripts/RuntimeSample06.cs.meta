@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d88a40e529273344d842c574111b38d2
+timeCreated: 1516025884
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Samples/RuntimeScripts/RuntimeSample06.cs
+  uploadId: 624408

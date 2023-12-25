@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 09ab2eb8ec9be354da21d78d9b446b91
+timeCreated: 1509868104
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/LibJpeg/Internal/my_merged_upsampler.cs
+  uploadId: 624408

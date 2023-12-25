@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3f5cff77c2fafc9428af28d03f54db1c
+timeCreated: 1509868105
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/LibJpeg/Internal/arith_entropy_decoder.cs
+  uploadId: 624408

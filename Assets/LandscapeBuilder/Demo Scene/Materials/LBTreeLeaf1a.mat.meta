@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91790b9e317107f4983a15afde5f9e0e
+timeCreated: 1454038033
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Materials/LBTreeLeaf1a.mat
+  uploadId: 624408

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e166389af7d11e4da0fb7b6e61b6a7b
+timeCreated: 1536471775
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/Resources/LBCGTexFilter.cginc
+  uploadId: 624408

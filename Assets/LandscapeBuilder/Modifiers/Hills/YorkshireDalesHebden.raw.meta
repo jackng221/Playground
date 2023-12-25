@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c700a4b04b5a4474d8452fd3bfb624c2
+timeCreated: 1526710818
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Hills/YorkshireDalesHebden.raw
+  uploadId: 624408

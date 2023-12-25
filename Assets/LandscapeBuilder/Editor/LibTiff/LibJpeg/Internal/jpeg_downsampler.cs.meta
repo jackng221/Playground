@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4f5a25a614e484349a04334937092474
+timeCreated: 1509868106
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Editor/LibTiff/LibJpeg/Internal/jpeg_downsampler.cs
+  uploadId: 624408

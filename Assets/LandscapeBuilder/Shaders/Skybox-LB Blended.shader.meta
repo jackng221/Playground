@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0347fbe6d8d6443caae979276031e8b2
+timeCreated: 1459130864
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/Skybox-LB Blended.shader
+  uploadId: 624408

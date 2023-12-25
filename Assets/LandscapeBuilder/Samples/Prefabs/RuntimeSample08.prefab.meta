@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba9fc453c6a68cd43804dc5fabfaa119
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Samples/Prefabs/RuntimeSample08.prefab
+  uploadId: 624408

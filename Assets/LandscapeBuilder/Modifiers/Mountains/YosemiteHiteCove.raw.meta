@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2199f78515430b44391364bcd544b04f
+timeCreated: 1512461973
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Mountains/YosemiteHiteCove.raw
+  uploadId: 624408

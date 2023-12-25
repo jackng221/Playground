@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb0e68e2d1b475e4780d3dad11eaa7de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Prefabs/LB_Tree1.prefab
+  uploadId: 624408

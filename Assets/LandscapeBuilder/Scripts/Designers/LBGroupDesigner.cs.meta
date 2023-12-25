@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5177db4bcb71d814487369762d241ee7
+timeCreated: 1511841573
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Scripts/Designers/LBGroupDesigner.cs
+  uploadId: 624408

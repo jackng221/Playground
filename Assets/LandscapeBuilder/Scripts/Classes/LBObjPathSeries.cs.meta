@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9fe82673bc13d0144858d8e3d3b5b944
+timeCreated: 1550112392
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Scripts/Classes/LBObjPathSeries.cs
+  uploadId: 624408

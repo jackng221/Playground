@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6e959fcab7c221489442ed2d078c11d
+timeCreated: 1506676061
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Prefabs/Rock1.prefab
+  uploadId: 624408

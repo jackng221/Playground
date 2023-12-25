@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1cac2e0bcc34e4b3cbb4bd85982eba83
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Standard Assets/Environment/Water/Water/Shaders/FXWaterPro.shader
+  uploadId: 624408

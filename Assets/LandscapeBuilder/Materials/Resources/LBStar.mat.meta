@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc22e55b1232b44119d8720a8728a966
+timeCreated: 1456835702
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Materials/Resources/LBStar.mat
+  uploadId: 624408

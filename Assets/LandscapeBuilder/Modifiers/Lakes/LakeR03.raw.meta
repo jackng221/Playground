@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee4f5d854da296f4f8412cb0dbd68455
+timeCreated: 1511592066
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Lakes/LakeR03.raw
+  uploadId: 624408

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85d2879029cca2e43aae656523f1c49c
+timeCreated: 1473494532
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Templates/FPS Forest Demo Template.prefab
+  uploadId: 624408

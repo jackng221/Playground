@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91a02929b59fba143826f0e2a9f1e9cb
+timeCreated: 1533879457
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/LBEnvPackSamples/Prefabs/LBS_TilesStack03_Light_512.prefab
+  uploadId: 624408

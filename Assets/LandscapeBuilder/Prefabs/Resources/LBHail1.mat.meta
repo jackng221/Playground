@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b226d1f855f01e64bbbeebb9fcf3db3a
+timeCreated: 1453893153
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Prefabs/Resources/LBHail1.mat
+  uploadId: 624408

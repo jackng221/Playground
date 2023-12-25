@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 74abb576f3fe24c03b20602a227f396b
+timeCreated: 1452743259
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Scripts/Behaviours/LBTerrainMeshController.cs
+  uploadId: 624408

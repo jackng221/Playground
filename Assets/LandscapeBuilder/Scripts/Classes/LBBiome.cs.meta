@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 845f90accb0fbe04bacbcac373e0c02d
+timeCreated: 1570753439
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Scripts/Classes/LBBiome.cs
+  uploadId: 624408

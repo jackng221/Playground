@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d41322403670714ab079c0a0c7a1841
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/LBEnvPackSamples/_Readme_LBEnvPackSamples.txt
+  uploadId: 624408

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 564b710b23dde5146a5e228127c36953
+timeCreated: 1526696526
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Hills/YorkshireDalesSwaledale.raw
+  uploadId: 624408

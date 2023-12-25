@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af992d71c55fd084b9ce4e95a54721e1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Prefabs/LB_BridgeSupport02.prefab
+  uploadId: 624408

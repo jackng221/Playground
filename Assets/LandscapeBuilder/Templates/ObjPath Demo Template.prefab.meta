@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ca0cd2c798b157d41a30361684b2b402
+timeCreated: 1550456741
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Templates/ObjPath Demo Template.prefab
+  uploadId: 624408

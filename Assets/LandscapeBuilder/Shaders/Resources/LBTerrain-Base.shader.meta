@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff0a052e917764935bafcd7af387801f
+timeCreated: 1462619184
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/Resources/LBTerrain-Base.shader
+  uploadId: 624408

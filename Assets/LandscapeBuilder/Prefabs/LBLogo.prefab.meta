@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95af8919e5d115d47aadeab9f48d231c
+timeCreated: 1459997181
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Prefabs/LBLogo.prefab
+  uploadId: 624408

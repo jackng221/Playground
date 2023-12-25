@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 391629d9ca832304d9ceeecff1999239
+timeCreated: 1536812931
+licenseType: Store
+ComputeShaderImporter:
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/Resources/LBCSTex.compute
+  uploadId: 624408

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54e18836c32d248ecb6bbe357504b343
+timeCreated: 1454038033
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Materials/LBStoneSoft.mat
+  uploadId: 624408

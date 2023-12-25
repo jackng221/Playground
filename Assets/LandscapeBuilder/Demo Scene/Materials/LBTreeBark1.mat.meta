@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fb0e99a776ebc04ca0ceb1bd9414b6a
+timeCreated: 1454038033
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Materials/LBTreeBark1.mat
+  uploadId: 624408

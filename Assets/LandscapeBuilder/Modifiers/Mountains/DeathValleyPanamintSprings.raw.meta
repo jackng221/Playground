@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d07748ddcd3d7e74a92eb5cc9e7c53c6
+timeCreated: 1512462125
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Modifiers/Mountains/DeathValleyPanamintSprings.raw
+  uploadId: 624408

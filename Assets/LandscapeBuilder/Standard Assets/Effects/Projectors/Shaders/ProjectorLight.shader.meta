@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c0ace1ca4bc0718448acf798c93d52d9
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader
+  uploadId: 624408

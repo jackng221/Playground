@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 606584489c8872349986a9eef5f56aca
+timeCreated: 1514857454
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Materials/LBLocation.mat
+  uploadId: 624408

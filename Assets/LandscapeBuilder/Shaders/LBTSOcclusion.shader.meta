@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 367378e29168444ed87ab14bac61ca70
+timeCreated: 1472367513
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/LBTSOcclusion.shader
+  uploadId: 624408

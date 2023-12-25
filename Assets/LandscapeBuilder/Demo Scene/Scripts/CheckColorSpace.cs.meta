@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b406a65d448320d4f98361b36309ea7c
+timeCreated: 1473730423
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -500
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Demo Scene/Scripts/CheckColorSpace.cs
+  uploadId: 624408

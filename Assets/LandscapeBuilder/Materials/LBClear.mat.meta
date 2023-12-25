@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 085d38dde94767047a832f16265182c9
+timeCreated: 1514857454
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Materials/LBClear.mat
+  uploadId: 624408

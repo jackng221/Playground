@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 259880e85d5b1ce49b9c43d304c21940
+timeCreated: 1536376803
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55463
+  packageName: Landscape Builder
+  packageVersion: 2.4.7
+  assetPath: Assets/LandscapeBuilder/Shaders/Resources/LBCGNoiseExt.cginc
+  uploadId: 624408
