@@ -6,6 +6,8 @@
 #custom
 /Assets/*
 !/Assets/#Project/
+.plastic
+ignore.conf
 
 /[Ll]ibrary/
 /[Tt]emp/

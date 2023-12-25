@@ -1,4 +1,0 @@
-repository "Playground@WiNDz_Organization@cloud"
-  path "/"
-    br "/main"
-    co "/main"
